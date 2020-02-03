@@ -1,0 +1,12 @@
+Passi per l'installazione e l'avvio:
+
+    1) Importare la repository da Github
+
+    2) Aprire il terminale e avviare il server con il comando 'go run server.go queue.go'
+
+    3) Aprire un altro terminale e avviare il publisher con il comando 'go run pub.go queue.go'
+
+    4) Aprire un altro terminale e avviare il subscriber con il comando 'go run sub.go queue.go'
+
+
+
